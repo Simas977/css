@@ -1,0 +1,27 @@
+.caixa {
+    background-color: rgb(8, 31, 243);
+    height: 0%;
+    border-style: solid;
+    padding: 25px;
+
+}
+
+.bolinha {
+    display: inline-block;
+    background-color: rgb(72, 255, 0);
+    width: 25%;
+    height: 50%;
+    border-style: solid;
+    border-radius: 25%;
+    margin: 15px;
+    text-align: center;
+
+}
+
+img {
+    width: 75%;
+    height: 75%;
+
+}
+
+
